@@ -4,4 +4,4 @@ function firstWord(s) {
 // Do not change the code below
 
 const h = prompt("Enter String:");
-alert(firstWord(h));
+alert(firstWord(s));
