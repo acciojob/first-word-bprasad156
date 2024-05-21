@@ -3,5 +3,5 @@ function firstWord(s) {
     return arr;
 // Do not change the code below
 
-const s = prompt("Enter String:");
-alert(firstWord(s));
+const h = prompt("Enter String:");
+alert(firstWord(h));
